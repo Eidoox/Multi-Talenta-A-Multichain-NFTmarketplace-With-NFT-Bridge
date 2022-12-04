@@ -28,6 +28,11 @@ My project is Multi-Talenta which is a Multichain NFT Marketplace with NFT Bridg
 - By this feature (Multichain), The marketplaces should be cross-chained also to enhance the interconnection between blockchain networks (chains) by allowing the exchange of information and value. Consequently, users will easily transfer their NFTs between different blockchains.
 
 ## Motivational video 
+
+
+https://user-images.githubusercontent.com/110778180/205505910-a15a96cf-7eeb-40d6-a443-f0cf4e3208a5.mp4
+
+
 ## Project Stack
 - Solidity: For writing smart contracts (For the backend).
 - ReactJS and JavaScript: For the front end.
@@ -79,8 +84,6 @@ I summerized the main functionalities of Multi-Talenta marketplace and how it wo
 ![projectworkflowdiagram](mediaimages/projectworkflowdiagram.png)
 ## Live Website
 ### Here is the [Multi-Talent live website](https://multitalenta-nftmarketplace-green.vercel.app/).
-## Demo Video
-### I uploaded the demo video on google drive. Here is the link ([Demo Video](https://google.com)), please take a look on it.
 ## Future plans
 ### More Blockchains
 - Currently, Multi-Talenta supports 4 blockchains. In the future, I will work on the integration with more blockchains; therefore, more users will use it.
