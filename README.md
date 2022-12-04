@@ -13,12 +13,16 @@ Based on the above criteria or features, let’s take a look on the most famous 
 
 
 ## Problem Statement
+Imagine these two scenarios:
+- Imagine that user has MATIC coins and he want to buy NFT that he liked it but that NFT found on an NFT marketplace that deployed on other blockchain so he could not buy that NFT right?.
+- If a user has an NFT that on X blockchain and another NFT looks like his NFT on Y blockchain and is very expensive. Is that user has the opportunity to sell or list his NFT on Y blockchain ? The answer is no right? so, he wants a tool to transfer NFTs across different blockchains.
 
 ## Problem Solution
-### Why you have to pick between one or the other blockchain for your NFT marketplace developement and deployment when you can have it all ?
+### Based on above critria for good marketplace, Why you have to pick between one or the other blockchain for your NFT marketplace developement and deployment when you can have it all ?
 So the solution is simply: create A multichain NFT Marketplace that users can create and mint or trade (buy and sell) NFTs on their desired blockchain. Moreover, users can also transfer their NFTs across different blockchains easily using NFT Bridge.
 
 ## Project Description
+My project is Multi-Talenta which is a Multichain NFT Marketplace with NFT Bridge that makes it simple to create, trade, and transfer NFTs across 4 different blockchains "Polygon, Ethereum, Avalanche, and Binance Smart Chain"
 ## Will the multichain NFT marketplace dominate in the future ?
 - NFTs marketplaces are going to be multichained. That means traders will enjoy less gas fees and faster transactions. However, this will become possible only when traders have multichain NFT marketplaces to trade their NFTs. Hence, we have to focus on implementing multichain marketplaces in the future.
 - By this feature (Multichain), The marketplaces should be cross-chained also to enhance the interconnection between blockchain networks (chains) by allowing the exchange of information and value. Consequently, users will easily transfer their NFTs between different blockchains.
@@ -74,7 +78,7 @@ There are 4 main functionalities of Multi-Talenta which are: creating NFTs, Expl
 I summerized the main functionalities of Multi-Talenta marketplace and how it works in a diagram. 
 ![projectworkflowdiagram](mediaimages/projectworkflowdiagram.png)
 ## Live Website
-### Here is the [Multi-Talent live website](https://google.com).
+### Here is the [Multi-Talent live website](https://multitalenta-nftmarketplace-green.vercel.app/).
 ## Demo Video
 ### I uploaded the demo video on google drive. Here is the link ([Demo Video](https://google.com)), please take a look on it.
 ## Future plans
