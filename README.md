@@ -18,7 +18,7 @@ Imagine these two scenarios:
 - If a user has an NFT that on X blockchain and another NFT looks like his NFT on Y blockchain and is very expensive. Is that user has the opportunity to sell or list his NFT on Y blockchain ? The answer is no right? so, he wants a tool to transfer NFTs across different blockchains.
 
 ## Problem Solution
-### Based on above critria for good marketplace, Why you have to pick between one or the other blockchain for your NFT marketplace developement and deployment when you can have it all ?
+### Based on above critria for good marketplace, Why you have to pick between one or the other blockchain for your NFT marketplace developement and deployment when you can have it all in one platform?
 So the solution is simply: create A multichain NFT Marketplace that users can create and mint or trade (buy and sell) NFTs on their desired blockchain. Moreover, users can also transfer their NFTs across different blockchains easily using NFT Bridge.
 
 ## Project Description
