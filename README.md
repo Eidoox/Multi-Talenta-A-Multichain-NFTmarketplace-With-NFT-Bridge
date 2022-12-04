@@ -83,9 +83,9 @@ There are 4 main functionalities of Multi-Talenta which are: creating NFTs, Expl
 I summerized the main functionalities of Multi-Talenta marketplace and how it works in a diagram. 
 ![projectworkflowdiagram](mediaimages/projectworkflowdiagram.png)
 ## Live Website
-### Here is the [Multi-Talent live website](https://multitalenta-nftmarketplace-green.vercel.app/).
+### Here is the [Multi-Talenta live website](https://multitalenta-nftmarketplace-green.vercel.app/).
 ## Demo Video
-### Here is the [Multi-Talent demo video](https://drive.google.com/file/d/1sQXysHuHxOVdNB1rhPx1mMLHhav8kKYp/view?usp=share_link). I uploaded it to drive because of it size.
+### Here is the [Multi-Talenta demo video](https://drive.google.com/file/d/1sQXysHuHxOVdNB1rhPx1mMLHhav8kKYp/view?usp=share_link). I uploaded it to drive because of it size.
 ## Future plans
 ### More Blockchains
 - Currently, Multi-Talenta supports 4 blockchains. In the future, I will work on the integration with more blockchains; therefore, more users will use it.
