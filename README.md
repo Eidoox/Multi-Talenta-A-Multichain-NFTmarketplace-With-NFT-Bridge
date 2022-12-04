@@ -90,4 +90,4 @@ I summerized the main functionalities of Multi-Talenta marketplace and how it wo
 ### Pay with market (Multi-Talenta) coin
 - Give the user the option of list and buy the NFTs with the chosen blockchain coin (MATIC, ETH, AVAX, and BNB) or the marketplace's coin.
 ## Conclusion
-Finally, 
+Finally, NFTs are cryptographic assets that based on blockchain technology. The rise in cryptocurrency influenced the rise in the NFT market. We have to focus on implementing a good and secure NFT marketplace for users. My project is implemenation Multi-Talenta (A Multichain NFT Marketplace) with NFT Bridge that makes it simple to create, trade, and transfer NFTs across 4 different blockchains "Polygon, Ethereum, Avalanche, and Binance Smart Chain". It solves the problem that users have to be adhered to one NFT marketplace and it helps users to make alot of money by creating NFT on an effective (low fees and has high transaction speed) and then transfer it to other blokchain and sell it with bigh profit. I will end my report with a question? Will multichain NFT marketplaces dominate in the future ?
